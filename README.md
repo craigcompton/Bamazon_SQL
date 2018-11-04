@@ -17,7 +17,7 @@ https://github.com/craigcompton/Bamazon_SQL/blob/master/KeyPress.png
 --------------------------------------------------------------------------
 
 When a purchase is made, it would show the total of the ammount of the purchase.
-![alt text](ttps://github.com/craigcompton/Bamazon_SQL/blob/master/PurchaseMade.png)
+![alt text](https://github.com/craigcompton/Bamazon_SQL/blob/master/PurchaseMade.png)
 https://github.com/craigcompton/Bamazon_SQL/blob/master/PurchaseMade.png
 
 --------------------------------------------------------------------------
